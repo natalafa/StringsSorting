@@ -1,0 +1,6 @@
+*_chunk_*
+.DS_Store
+.idea/
+*.jpeg
+out/
+
